@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <!--iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?KhalebOBrien" frameborder="0"></iframe-->
 
-[![Khaleb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalebOBrien&layout=compact&langs_count=8&hide_border=true)]()
+<!--[![Khaleb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalebOBrien&layout=compact&langs_count=8&hide_border=true)]()-->
 
 [![Khaleb's github stats](https://github-readme-stats.vercel.app/api?username=KhalebOBrien&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)]()
