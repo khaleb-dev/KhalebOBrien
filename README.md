@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 <!--[![Khaleb's github stats](https://github-readme-stats.vercel.app/api?username=KhalebOBrien&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/KhalebOBrien/github-readme-stats#gh-dark-mode-only)-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhalebOBrien&show_icons=true&theme=transparent)
+![Khaleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhalebOBrien&count_private=true&show_icons=true&count_private=true&theme=transparent&hide_border=true)
