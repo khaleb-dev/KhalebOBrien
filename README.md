@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 <!--[![Khaleb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalebOBrien&layout=compact&langs_count=8&hide_border=true)]()-->
 
-[![Khaleb's github stats](https://github-readme-stats.vercel.app/api?username=KhalebOBrien&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/KhalebOBrien/github-readme-stats#gh-dark-mode-only)
+<!--[![Khaleb's github stats](https://github-readme-stats.vercel.app/api?username=KhalebOBrien&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/KhalebOBrien/github-readme-stats#gh-dark-mode-only)-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhalebOBrien&show_icons=true&theme=transparent)
