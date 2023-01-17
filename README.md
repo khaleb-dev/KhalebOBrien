@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <!--iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?KhalebOBrien" frameborder="0"></iframe-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalebOBrien&layout=compact)](https://github.com/KhalebOBrien/KhalebOBrien)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalebOBrien&layout=compact&theme=transparent)](https://github.com/KhalebOBrien/KhalebOBrien)
 
 ![Profile Statistics](https://github-readme-stats.vercel.app/api?username=KhalebOBrien&count_private=true&show_icons=true&count_private=true&theme=transparent&hide_border=true)
